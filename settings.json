@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NoCommands-HVQd.aternos.me",
+    "ip": "NoCommands-HVQd.aternos.me:41228",
     "port": 62213,
     "version": "",
     "try-creative": false
